@@ -1,6 +1,6 @@
 {
   "name": "proper-text-indent",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Proper text indenting.",
   "main": "index.js",
   "scripts": {
