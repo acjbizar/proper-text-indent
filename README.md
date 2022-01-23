@@ -6,8 +6,6 @@ In Web typography, I usually pefer text indents over vertical margins to denote 
 Usage
 -----
 
-<pre>
-&lt;link rel="stylesheet" href="http://mimesia.net/style/proper-text-indent.css"&gt;
-</pre>
-
-
+```html
+&lt;link rel="stylesheet" href="https://mimesia.net/style/proper-text-indent.min.css"&gt;
+```
