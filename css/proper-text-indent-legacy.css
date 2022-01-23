@@ -1,0 +1,9 @@
+p {
+  text-indent: 2em;
+}
+
+:not(p) + p,
+p:first-child,
+p:first-of-type {
+  text-indent: 0;
+}
