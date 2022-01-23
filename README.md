@@ -7,5 +7,5 @@ Usage
 -----
 
 ```html
-&lt;link rel="stylesheet" href="https://mimesia.net/style/proper-text-indent.min.css"&gt;
+<link rel="stylesheet" href="https://mimesia.net/style/proper-text-indent.min.css">
 ```
